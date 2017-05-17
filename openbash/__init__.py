@@ -1,5 +1,4 @@
-from fman import DirectoryPaneCommand, show_alert
-import os
+from fman import DirectoryPaneCommand
 import subprocess
 
 class OpenBash(DirectoryPaneCommand):
